@@ -1,0 +1,5 @@
+data/*/work/*
+*pyc
+*.root
+*.log
+*-checkpoint.ipynb
