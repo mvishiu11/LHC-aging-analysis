@@ -3,3 +3,4 @@ data/*/work/*
 *.root
 *.log
 *-checkpoint.ipynb
+.env
