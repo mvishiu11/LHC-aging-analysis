@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=DAQ Monitor
+Comment=Enhanced system monitor with physics data acquisition tracking
+Exec=/home/mvishiu11/Desktop/CERN/LHC-aging-analysis/data_fetching/daq_monitor.py
+Icon=/home/mvishiu11/Desktop/CERN/LHC-aging-analysis/resources/logo.png
+Terminal=false
+Categories=System;Monitor;
+StartupNotify=true
+StartupWMClass=Acquisition Control Center
