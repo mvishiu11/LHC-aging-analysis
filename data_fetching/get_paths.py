@@ -53,8 +53,8 @@ from tqdm import tqdm
 # Configuration constants
 # ----------------------------------------------------------------------------
 TOKEN = os.getenv(
-    "BK_TOKEN",
-    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg5MDYzNCIsInVzZXJuYW1lIjoiamFrdWJtaWwiLCJuYW1lIjoiSmFrdWIgTWlsb3N6IE11c3p5bnNraSIsImFjY2VzcyI6Imd1ZXN0LGRlZmF1bHQtcm9sZSIsImlhdCI6MTc1MjIyNTQ5NiwiZXhwIjoxNzUyODMwMjk2LCJpc3MiOiJvMi11aSJ9.NyiBr6FyIyJ20dz9rEcgVYx1rcY1oPo3gUhhW_iXuzI",
+    "ALICE_BK_TOKEN",
+    "",
 )
 OUTDIR = pathlib.Path(".").absolute()
 LISTFILE = OUTDIR / "laser_paths.lst"
@@ -62,7 +62,8 @@ PAGE_LIMIT = 600
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-PERIOD_RE = re.compile(r"LHC\d{2}[a-z]{1,2}_FT0")
+PERIOD_RE_FT0 = re.compile(r"LHC\d{2}[a-z]{1,2}_FT0")
+PERIOD_RE = re.compile(r"LHC\d{2}[a-z]{1,2}.*")
 RUN_RE = re.compile(r"run(\d{6,9})")
 
 console = Console(highlight=False)
@@ -77,7 +78,7 @@ def bk_runs() -> List[Tuple[int, int]]:
     params = {
         "filter[detectors][operator]": "and",
         "filter[detectors][values]": "FT0",
-        "filter[runTypes][]": "5",  # LASER
+        "filter[runTypes][]": "1",  # 5 LASER, 1 PHYSICS
         "filter[runQualities]": "good",
         "page[limit]": PAGE_LIMIT,
         "page[offset]": 0,
@@ -90,7 +91,9 @@ def bk_runs() -> List[Tuple[int, int]]:
         data = requests.get(f"{url}?{q}", verify=False, timeout=30).json()
 
         for entry in data["data"]:
-            if entry.get("lhcBeamMode") != "RAMP DOWN":
+            # if entry.get("lhcBeamMode") != "RAMP DOWN":
+            #     continue
+            if entry.get("pdpBeamType") not in ["OO", "pO"]:
                 continue
             epoch_ms = entry.get("startTime") or entry.get("timeO2Start")
             year = datetime.datetime.utcfromtimestamp(epoch_ms / 1000).year
