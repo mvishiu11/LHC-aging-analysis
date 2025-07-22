@@ -31,16 +31,16 @@ from typing import List, Dict
 import requests
 from rich.console import Console
 from rich.progress import Progress, SpinnerColumn, TextColumn
+from dotenv import load_dotenv
+
+
+load_dotenv()
 
 # ───────────────────────────── configuration ──────────────────────────────
 API_BASE   = "https://ali-bookkeeping.cern.ch/api"
 TOKEN      = os.getenv(  # guest-read token good for ~1 week
-    "BK_TOKEN",
-    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9."
-    "eyJpZCI6Ijg5MDYzNCIsInVzZXJuYW1lIjoiamFrdWJtaWwiLCJuYW1lIjoiSmFrdWIg"
-    "TWlsb3N6IE11c3p5bnNraSIsImFjY2VzcyI6Imd1ZXN0LGRlZmF1bHQtcm9sZSIsImlh"
-    "dCI6MTc1MjIyNTQ5NiwiZXhwIjoxNzUyODMwMjk2LCJpc3MiOiJvMi11aSJ9."
-    "NyiBr6FyIyJ20dz9rEcgVYx1rcY1oPo3gUhhW_iXuzI"
+    "ALICE_BK_TOKEN",
+    ""
 )
 PAGE_LIMIT = 600                       # Bookkeeping pagination
 
@@ -89,6 +89,52 @@ def fetch_laser_runs() -> List[Dict[str, int]]:
         pbar.update(task, description=f"Fetched {len(runs)} runs ✔", completed=1)
     return runs
 
+
+def fetch_oxygen_runs() -> List[Dict[str, int]]:
+    params = {
+        "filter[detectors][operator]": "and",
+        "filter[detectors][values]":   "FT0",
+        "filter[runTypes][]":          "1",
+        "filter[runQualities]":        "good",
+        "page[limit]":                 PAGE_LIMIT,
+        "page[offset]":                0,
+        "token":                       TOKEN,
+    }
+    runs: List[Dict[str, int]] = []
+
+    with Progress(SpinnerColumn("bouncingBall"), TextColumn("[progress.description]{task.description}"),
+                  console=console) as pbar:
+        task = pbar.add_task("Querying Bookkeeping …", total=None)
+
+        while True:
+            url = f"{API_BASE}/runs?{urllib.parse.urlencode(params, safe='[]')}"
+            data = requests.get(url, timeout=30, verify=False).json()
+
+            for entry in data["data"]:
+                # if entry.get("lhcBeamMode") != "RAMP DOWN":
+                #     continue
+                if entry.get("pdpBeamType") not in ["OO", "pO"]:
+                    continue
+                epoch_ms = entry.get("startTime") or entry.get("timeO2Start")
+                polarity = entry.get("aliceDipolePolarity")
+                beamType = entry.get("lhcFill").get("beamType")
+                runs.append(
+                    {
+                        "run": entry["runNumber"], 
+                        "start_ms": epoch_ms,
+                        "polarity": polarity,
+                        "beamType": beamType
+                    })
+
+            cur_page = params["page[offset]"] // PAGE_LIMIT + 1
+            if cur_page >= data["meta"]["page"]["pageCount"]:
+                break
+            params["page[offset]"] += PAGE_LIMIT
+
+        pbar.update(task, description=f"Fetched {len(runs)} runs ✔", completed=1)
+    return runs
+
+
 # ───────────────────────────────── main ────────────────────────────────────
 def main() -> None:
     ap = argparse.ArgumentParser(
@@ -99,7 +145,7 @@ def main() -> None:
                     help="output file name")
     args = ap.parse_args()
 
-    runs = fetch_laser_runs()
+    runs = fetch_oxygen_runs()
     Path(args.outfile).write_text(json.dumps(runs, indent=2))
     console.print(f"[bold green]✓ Saved {len(runs)} runs → {args.outfile}[/]")
     console.print(f"(earliest: {runs[0]['run']} @ "

@@ -1,0 +1,152 @@
+[
+  {
+    "run": 564472,
+    "start_ms": 1752012495222,
+    "polarity": "POSITIVE",
+    "beamType": "NE10 - NE10"
+  },
+  {
+    "run": 564470,
+    "start_ms": 1752011070690,
+    "polarity": "POSITIVE",
+    "beamType": "NE10 - NE10"
+  },
+  {
+    "run": 564468,
+    "start_ms": 1751985015282,
+    "polarity": "POSITIVE",
+    "beamType": "NE10 - NE10"
+  },
+  {
+    "run": 564445,
+    "start_ms": 1751876395389,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564430,
+    "start_ms": 1751835134743,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564414,
+    "start_ms": 1751807666634,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564400,
+    "start_ms": 1751772182033,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564387,
+    "start_ms": 1751743337240,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564374,
+    "start_ms": 1751715252877,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564373,
+    "start_ms": 1751713818121,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564359,
+    "start_ms": 1751695076850,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564357,
+    "start_ms": 1751687071694,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564356,
+    "start_ms": 1751683109933,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564332,
+    "start_ms": 1751570911855,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564331,
+    "start_ms": 1751569132967,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564327,
+    "start_ms": 1751553999773,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564297,
+    "start_ms": 1751458675792,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  },
+  {
+    "run": 564275,
+    "start_ms": 1751429283013,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  },
+  {
+    "run": 564274,
+    "start_ms": 1751421194826,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  },
+  {
+    "run": 564272,
+    "start_ms": 1751408443896,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  },
+  {
+    "run": 564271,
+    "start_ms": 1751380945841,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  },
+  {
+    "run": 564251,
+    "start_ms": 1751346650887,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  },
+  {
+    "run": 564250,
+    "start_ms": 1751341777720,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  },
+  {
+    "run": 564223,
+    "start_ms": 1751247799925,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  },
+  {
+    "run": 564222,
+    "start_ms": 1751245530252,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  }
+]
