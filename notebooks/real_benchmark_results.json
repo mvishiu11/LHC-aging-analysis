@@ -1,0 +1,675 @@
+{
+  "system_info": {
+    "cpu_count": 20,
+    "memory_gb": 62.48724365234375,
+    "cpu_freq": 4800.0,
+    "python_version": "3.12",
+    "timestamp": "2025-07-25T13:15:09.525006"
+  },
+  "results": [
+    {
+      "method": "Python Optimized",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.5485702991485595,
+      "memory_peak_mb": 1542.4140625,
+      "cpu_percent": 0.0,
+      "files_processed": 5,
+      "total_time": 17.742851495742798,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:15:31.410432",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust Hybrid",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.371515083312988,
+      "memory_peak_mb": 1618.546875,
+      "cpu_percent": 0.0,
+      "files_processed": 5,
+      "total_time": 11.857575416564941,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:15:45.937935",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-1000bins",
+      "config": {
+        "hist_bins": 1000,
+        "hist_range": [
+          0,
+          1000
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.505911350250244,
+      "memory_peak_mb": 1821.99609375,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 10.517734050750732,
+      "channels_per_file": 208,
+      "histogram_bins": 1000,
+      "timestamp": "2025-07-25T13:16:00.418079",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-1000bins",
+      "config": {
+        "hist_bins": 1000,
+        "hist_range": [
+          0,
+          1000
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.5042357444763184,
+      "memory_peak_mb": 1645.4375,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 7.512707233428955,
+      "channels_per_file": 208,
+      "histogram_bins": 1000,
+      "timestamp": "2025-07-25T13:16:10.930479",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-2000bins",
+      "config": {
+        "hist_bins": 2000,
+        "hist_range": [
+          0,
+          2000
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.5950284798940024,
+      "memory_peak_mb": 1822.84375,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 10.785085439682007,
+      "channels_per_file": 208,
+      "histogram_bins": 2000,
+      "timestamp": "2025-07-25T13:16:25.669472",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-2000bins",
+      "config": {
+        "hist_bins": 2000,
+        "hist_range": [
+          0,
+          2000
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.508639335632324,
+      "memory_peak_mb": 1646.08203125,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 7.525918006896973,
+      "channels_per_file": 208,
+      "histogram_bins": 2000,
+      "timestamp": "2025-07-25T13:16:36.019196",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-3000bins",
+      "config": {
+        "hist_bins": 3000,
+        "hist_range": [
+          0,
+          3000
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.4175028800964355,
+      "memory_peak_mb": 1822.8828125,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 10.252508640289307,
+      "channels_per_file": 208,
+      "histogram_bins": 3000,
+      "timestamp": "2025-07-25T13:16:50.165010",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-3000bins",
+      "config": {
+        "hist_bins": 3000,
+        "hist_range": [
+          0,
+          3000
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.3759005069732666,
+      "memory_peak_mb": 1822.96484375,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 7.1277015209198,
+      "channels_per_file": 208,
+      "histogram_bins": 3000,
+      "timestamp": "2025-07-25T13:17:00.227357",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-4100bins",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.46362566947937,
+      "memory_peak_mb": 1823.21484375,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 10.39087700843811,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:17:14.774191",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-4100bins",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.4049594402313232,
+      "memory_peak_mb": 1823.24609375,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 7.21487832069397,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:17:24.883106",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-5000bins",
+      "config": {
+        "hist_bins": 5000,
+        "hist_range": [
+          0,
+          5000
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.5257580280303955,
+      "memory_peak_mb": 1823.29296875,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 10.577274084091187,
+      "channels_per_file": 208,
+      "histogram_bins": 5000,
+      "timestamp": "2025-07-25T13:17:39.407777",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-5000bins",
+      "config": {
+        "hist_bins": 5000,
+        "hist_range": [
+          0,
+          5000
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.3172808488210044,
+      "memory_peak_mb": 1823.16796875,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 6.951842546463013,
+      "channels_per_file": 208,
+      "histogram_bins": 5000,
+      "timestamp": "2025-07-25T13:17:49.173951",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-6000bins",
+      "config": {
+        "hist_bins": 6000,
+        "hist_range": [
+          0,
+          6000
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.533236026763916,
+      "memory_peak_mb": 1823.19140625,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 10.599708080291748,
+      "channels_per_file": 208,
+      "histogram_bins": 6000,
+      "timestamp": "2025-07-25T13:18:03.911863",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-6000bins",
+      "config": {
+        "hist_bins": 6000,
+        "hist_range": [
+          0,
+          6000
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.4684696197509766,
+      "memory_peak_mb": 1646.67578125,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 7.40540885925293,
+      "channels_per_file": 208,
+      "histogram_bins": 6000,
+      "timestamp": "2025-07-25T13:18:14.128931",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-50ch",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": false,
+        "target_channels": 50,
+        "reference_channels": 1
+      },
+      "time_per_file": 3.6015475591023765,
+      "memory_peak_mb": 1823.375,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 10.804642677307129,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:18:28.866828",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-50ch",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": true,
+        "target_channels": 50,
+        "reference_channels": 1
+      },
+      "time_per_file": 2.392571528752645,
+      "memory_peak_mb": 1823.44140625,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 7.177714586257935,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:18:38.737563",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-100ch",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": false,
+        "target_channels": 100,
+        "reference_channels": 2
+      },
+      "time_per_file": 3.411008358001709,
+      "memory_peak_mb": 1823.359375,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 10.233025074005127,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:18:52.954219",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-100ch",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": true,
+        "target_channels": 100,
+        "reference_channels": 2
+      },
+      "time_per_file": 2.322817087173462,
+      "memory_peak_mb": 1646.7421875,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 6.968451261520386,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:19:02.637575",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-150ch",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": false,
+        "target_channels": 150,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.5720084508260093,
+      "memory_peak_mb": 1671.87890625,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 10.716025352478027,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:19:17.459249",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-150ch",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": true,
+        "target_channels": 150,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.451378107070923,
+      "memory_peak_mb": 1823.5859375,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 7.3541343212127686,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:19:27.326791",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-208ch",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.4452477296193442,
+      "memory_peak_mb": 1823.78125,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 10.335743188858032,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:19:41.505927",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-208ch",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.3547560373942056,
+      "memory_peak_mb": 1823.76171875,
+      "cpu_percent": 0.0,
+      "files_processed": 3,
+      "total_time": 7.064268112182617,
+      "channels_per_file": 208,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:19:51.304832",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-10files",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.4645139455795286,
+      "memory_peak_mb": 1673.80859375,
+      "cpu_percent": 0.0,
+      "files_processed": 10,
+      "total_time": 34.64513945579529,
+      "channels_per_file": 206,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:20:30.096599",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-10files",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.3628299474716186,
+      "memory_peak_mb": 1683.01953125,
+      "cpu_percent": 0.0,
+      "files_processed": 10,
+      "total_time": 23.628299474716187,
+      "channels_per_file": 206,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:20:56.312486",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-50files",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.4794546270370486,
+      "memory_peak_mb": 1750.89453125,
+      "cpu_percent": 0.0,
+      "files_processed": 50,
+      "total_time": 173.97273135185242,
+      "channels_per_file": 205,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:23:54.143278",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-50files",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.3503668832778932,
+      "memory_peak_mb": 1930.08984375,
+      "cpu_percent": 0.0,
+      "files_processed": 50,
+      "total_time": 117.51834416389465,
+      "channels_per_file": 205,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:25:54.261399",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-100files",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.604125831127167,
+      "memory_peak_mb": 3097.00390625,
+      "cpu_percent": 0.0,
+      "files_processed": 100,
+      "total_time": 360.4125831127167,
+      "channels_per_file": 205,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:31:58.670235",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-100files",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.4581622815132143,
+      "memory_peak_mb": 2982.140625,
+      "cpu_percent": 0.0,
+      "files_processed": 100,
+      "total_time": 245.8162281513214,
+      "channels_per_file": 205,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:36:07.304948",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Python-200files",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": false,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 3.5051808166503906,
+      "memory_peak_mb": 2990.15234375,
+      "cpu_percent": 0.0,
+      "files_processed": 200,
+      "total_time": 701.0361633300781,
+      "channels_per_file": 204,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:47:52.488416",
+      "error_rate": 0.0
+    },
+    {
+      "method": "Rust-200files",
+      "config": {
+        "hist_bins": 4100,
+        "hist_range": [
+          0,
+          4100
+        ],
+        "use_rust": true,
+        "target_channels": 208,
+        "reference_channels": 3
+      },
+      "time_per_file": 2.435217562913895,
+      "memory_peak_mb": 3187.5234375,
+      "cpu_percent": 0.0,
+      "files_processed": 200,
+      "total_time": 487.04351258277893,
+      "channels_per_file": 204,
+      "histogram_bins": 4100,
+      "timestamp": "2025-07-25T13:56:02.241290",
+      "error_rate": 0.0
+    }
+  ],
+  "summary": {
+    "total_runs": 30,
+    "timestamp": "2025-07-25T13:56:02.258710"
+  }
+}
