@@ -1,0 +1,490 @@
+{
+  "metadata": {
+    "total_events": 37,
+    "generated_at": "2025-07-24T16:25:49.305645",
+    "description": "FT0 HV configuration update events from ALICE Bookkeeping"
+  },
+  "events": [
+    {
+      "id": 128902,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2025-06-27T15:46:12",
+      "timestamp_unix": 1751031972000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Folllowing the repairment of FTC-E2, the default +0.5T HV config fine-tuned during the period of the FTC-E2's decreased resistance was updated (see https://ali-bookkeeping.cern.ch/?page=log-detail&id=..."
+    },
+    {
+      "id": 127946,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2025-06-14T14:06:40",
+      "timestamp_unix": 1749902800000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Folllowing the fine-tuning procedure happening today from 10h00 till 12h00, FT0 HV and FEE configs have been fine-tuned for +0.5T running with full-energy protons. This was done at the very end of fil..."
+    },
+    {
+      "id": 124134,
+      "title": "Default FT0 HV & FEE configs updated for 0.0T following a fine-tuning",
+      "timestamp": "2025-05-10T23:56:01",
+      "timestamp_unix": 1746914161000,
+      "magnetic_field": "0.0T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Folllowing the fine-tuning procedure happening from 21h30 till 23h30 today 10.05.2025, FT0 HV and FEE configs have been fine-tuned for 0.0T running with full-energy protons. New CFD thresholds were ap..."
+    },
+    {
+      "id": 124094,
+      "title": "Default FT0 HV config updated for 0.0T",
+      "timestamp": "2025-05-10T16:31:11",
+      "timestamp_unix": 1746887471000,
+      "magnetic_field": "0.0T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "FEE config now also updated for 0.0T:\r\n\r\n**New default configs:**\r\nHV-00T-___-250510\r\nFEE-00T-zzz-250510.cfg"
+    },
+    {
+      "id": 124090,
+      "title": "Default FT0 HV config updated for 0.0T",
+      "timestamp": "2025-05-10T15:18:15",
+      "timestamp_unix": 1746883095000,
+      "magnetic_field": "0.0T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "In view of the upcoming running without B-field, a predictive HV config for 0.0T has been produced basing on the +0.5T config fine-tuned recently. A corresponding FEE config (FEE-00T-zzz-250510-RCetCF..."
+    },
+    {
+      "id": 124084,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2025-05-10T13:51:35",
+      "timestamp_unix": 1746877895000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Folllowing the fine-tuning procedure happening from 10h00 till 12h00, FT0 HV and FEE configs have been fine-tuned for +0.5T running with full-energy protons. New CFD thresholds were applied at ~12h45...."
+    },
+    {
+      "id": 123006,
+      "title": "Default FT0 HV config (only) updated for +0.5T",
+      "timestamp": "2025-04-22T11:23:25",
+      "timestamp_unix": 1745313805000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "(This was done around ~10h25 today.)\r\n\r\nTo compensate for the difference in the \"MIP\" peak position at 450 GeV and 7 TeV, HV settings of all FT0 channels have been adjusted in batch:\r\n• +8 V for all A..."
+    },
+    {
+      "id": 120678,
+      "title": "Default FT0 HV and FEE configs updated for -0.2T",
+      "timestamp": "2024-11-23T12:35:25",
+      "timestamp_unix": 1732361725000,
+      "magnetic_field": "-0.2T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "To ease the start of -0.2T running next year, the default HV config has also been updated accordingly.\r\n\r\n**New default configs:**\r\nHV-02T-neg-241122\r\nFEE-02T-neg-241122.cfg"
+    },
+    {
+      "id": 120603,
+      "title": "Default FT0 HV and FEE configs updated for -0.2T",
+      "timestamp": "2024-11-22T22:15:32",
+      "timestamp_unix": 1732310132000,
+      "magnetic_field": "-0.2T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "In view of the possible -0.2T running, default FT0 FEE (and formally HV) configs have been updated.\r\n\r\n**Old default configs:**\r\nHV-02T-neg-230708_L\r\nFEE-02T-neg-240320.cfg\r\n\r\n**New default configs:**..."
+    },
+    {
+      "id": 120009,
+      "title": "Default FT0 HV and FEE configs updated for -0.5T",
+      "timestamp": "2024-11-19T17:26:05",
+      "timestamp_unix": 1732033565000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Following the laser scan at the actual -0.5T field, HV and FEE settings have been updated to equalize the channels to 14 ADC ch / pp MIP equivalent. The previous default config was produced indirectly..."
+    },
+    {
+      "id": 119789,
+      "title": "Default FT0 HV (and formally FEE) configs updated for -0.5T",
+      "timestamp": "2024-11-18T13:15:23",
+      "timestamp_unix": 1731932123000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "-0.5T HV config has been updated in a \"blind\" way (with no beam) to correct for the MCP-PMT ageing. No change to the target - 14 ADC ch / pp MIP. Only those channels clearly suffering from ageing have..."
+    },
+    {
+      "id": 119011,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2024-11-14T19:25:47",
+      "timestamp_unix": 1731608747000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "+0.5T HV and FEE configs have been updated in a \"blind\" way (with no beam) to correct for the MCP-PMT ageing. No change to the target - 14 ADC ch / pp MIP. Only those channels clearly suffering from a..."
+    },
+    {
+      "id": 116818,
+      "title": "Default FT0 HV and FEE configs updated for -0.5T",
+      "timestamp": "2024-11-01T16:21:45",
+      "timestamp_unix": 1730474505000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Folllowing the fine-tuning procedure happening from 15h10 till 15h55 today, FT0 HV and FEE configs have been fine-tuned for -0.5T running with protons at the reference energy.\r\n\r\n**Old default configs..."
+    },
+    {
+      "id": 116689,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2024-10-31T21:39:55",
+      "timestamp_unix": 1730407195000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Folllowing the fine-tuning procedure happening from 19h40 till 20h45, FT0 HV and FEE configs have been fine-tuned for +0.5T running with protons at the reference energy.\r\n\r\n**Old default configs:**\r\nH..."
+    },
+    {
+      "id": 112717,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2024-10-03T00:27:38",
+      "timestamp_unix": 1727908058000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Following the fine-tuning, the default configs have been changed.\r\n\r\n**Old default configs:**\r\nHV-05T-pos-240110-prelim\r\nFEE-05T-pos-240110-prelim.cfg\r\n\r\n**New default configs:**\r\nHV-05T-pos-241002\r\nF..."
+    },
+    {
+      "id": 112532,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2024-10-01T14:43:04",
+      "timestamp_unix": 1727786584000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "**Old default configs:**\r\nHV-05T-pos-240710\r\nFEE-05T-pos-240710.cfg\r\n\r\n**New default configs:**\r\nHV-05T-pos-240110-prelim\r\nFEE-05T-pos-240110-prelim.cfg\r\n\r\nNo change to the gain target: 14 ADC ch/MIP...."
+    },
+    {
+      "id": 110797,
+      "title": "Default FT0 HV and FEE configs updated for -0.5T",
+      "timestamp": "2024-09-18T20:15:47",
+      "timestamp_unix": 1726683347000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "To compensate for the ageing accumulated since the start of -0.5T running in August, and in view of the upcoming Pb-Pb running, HV and ADC settings of FT0 have been fine-tuned.\r\nThe tuning was perform..."
+    },
+    {
+      "id": 105763,
+      "title": "Default FT0 HV and FEE configs updated for -0.5T",
+      "timestamp": "2024-08-18T16:27:20",
+      "timestamp_unix": 1723991240000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "In view of the B-field polarity switch planned for the next week, -0.5T HV and FEE configs have been updated to account for the MCP-PMT ageing accumulated since April 2024.\r\n\r\n**Old default configs:**..."
+    },
+    {
+      "id": 99162,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2024-07-10T14:41:49",
+      "timestamp_unix": 1720615309000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "This update concerns HV and FEE setting for the FTA-E2 MCP-PMT only (this is the ine suffering from a vacuum microleak).\r\nFor this particular PMT, this is the last HV increase, mainly for the purpose ..."
+    },
+    {
+      "id": 96119,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2024-06-19T23:14:56",
+      "timestamp_unix": 1718831696000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "FT0 fine-tuning for the +0.5T required systematic increase in voltage by 2...4 V for the majority of channels - highly likely, due to the start of the hot season.\r\n\r\nThe tuning was performed in parall..."
+    },
+    {
+      "id": 96118,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2024-06-19T23:11:16",
+      "timestamp_unix": 1718831476000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "**Old default configs:**\r\nHV-05T-pos-240516_L\r\nFEE-05T-pos-240517.cfg\r\n\r\n**New default configs:**\r\nHV-05T-pos-240619\r\nFEE-05T-pos-240619.cfg\r\n\r\nNo change to the gain target: 14 ADC ch/MIP.\r\nCalibratio..."
+    },
+    {
+      "id": 91195,
+      "title": "Default FT0 HV and FEE configs fine-tuned for +0.5T",
+      "timestamp": "2024-05-16T19:15:51",
+      "timestamp_unix": 1715879751000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "FT0 HV and FEE settings have been being fine-tuned for +0.5T between 15h40 and 17h15, in parallel to data-taking. \r\nSome time after that was spent to recover the updated ADC settings, but no HV change..."
+    },
+    {
+      "id": 91074,
+      "title": "Default FT0 HV and FEE configs updated for +0.5T",
+      "timestamp": "2024-05-15T14:58:44",
+      "timestamp_unix": 1715777924000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "In view of the VdM scans at +0.5T, the default HV and CS configs have been updated to compensate for the ageing and annealing effects accumulated since October 7th, 2023.\r\nNote these configs have been..."
+    },
+    {
+      "id": 85362,
+      "title": "Default FT0 HV and FEE configs updated for -0.5T",
+      "timestamp": "2024-04-08T12:10:18",
+      "timestamp_unix": 1712571018000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "The FEE config was updated to pair the inactive ADC settings and equalize the effective CFD thresholds. \r\n\r\nNew default config file: FEE-05T-neg-240408\r\nOld default config file: FEE-05T-neg-240405"
+    },
+    {
+      "id": 85012,
+      "title": "Default FT0 HV config updated for 0.0T",
+      "timestamp": "2024-04-06T10:22:26",
+      "timestamp_unix": 1712391746000,
+      "magnetic_field": "0.0T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "In view of tomorrow's exceptonal zero-field alignment runs, HV config for 0T have been updated to correct for  ageing since July 2023. \r\n\r\nOld HV config: HV-0T-230714\r\nNew HV config: HV-00T-___-240404..."
+    },
+    {
+      "id": 84900,
+      "title": "Default FT0 HV and FEE configs updated for -0.5T",
+      "timestamp": "2024-04-05T21:26:17",
+      "timestamp_unix": 1712345177000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Following the fine-tuning at 6.8 TeV, new HV and FEE configs have been produced and set as default. \r\n\r\nHV settings for the majority of MCP-PMTs have been corrected by 3-5 V. The procedure was done fr..."
+    },
+    {
+      "id": 81187,
+      "title": "New FT0 HV and FEE configs set default for -0.5T",
+      "timestamp": "2024-03-11T12:12:54",
+      "timestamp_unix": 1710155574000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Old configs: \r\n**HV-05T-neg-231024\r\nFEE-05T-neg-231024_SC35_CE1433.cfg**\r\n\r\nNew configs:\r\n**HV-05T-neg-240308\r\nFEE-05T-neg-240308\r\n\r\nConfigs were updated to correct for ageing happened during the last..."
+    },
+    {
+      "id": 75255,
+      "title": "New FT0 HV and FEE configs default for -0.5T",
+      "timestamp": "2023-10-24T20:11:05",
+      "timestamp_unix": 1698171065000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "HV and FEE configs were updated to compensate for the ageing effects since 2023-10-20.\r\n\r\nOld default configs:\r\n**HV-05T-neg-231019\r\nFEE-05T-neg-231020_SC35_CE1433.cfg**\r\n\r\nNew configs set as default:..."
+    },
+    {
+      "id": 70452,
+      "title": "Default FT0 HV config updated for -0.5T",
+      "timestamp": "2023-09-29T21:52:36",
+      "timestamp_unix": 1696017156000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "Current limits updated in the HV config default for -0.5T (no changes to voltage settings).\r\nSettings for the 8 innermost A-side MCP-PMTs optimized now for high-intensity Pb-Pb running (+10 uA), as do..."
+    },
+    {
+      "id": 66406,
+      "title": "New FT0 HV and FEE configs for +0.5T",
+      "timestamp": "2023-08-28T20:56:49",
+      "timestamp_unix": 1693249009000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "FT0 HV and FEE configs for +0.5T were adjusted to account for ageing accumulated since April 21st, 2023. \r\n\r\nHV and RC corrections were introduced to HV-05T-pos-230421 and FEE-05T-pos-230828.cfg. The ..."
+    },
+    {
+      "id": 61594,
+      "title": "FT0 default HV config for -0.5T corrected (in FTC-B3 settings)",
+      "timestamp": "2023-07-16T23:15:53",
+      "timestamp_unix": 1689542153000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "FTC-B3 settings were corrected to copensate the issue with this channel's resistance - now 1341 V instead of 1317.7 V. The settings were updated in the HV distribution set to the detector in between f..."
+    },
+    {
+      "id": 60141,
+      "title": "FT0 HV and CS configs fine-tuned for +0.2T",
+      "timestamp": "2023-07-07T15:40:07",
+      "timestamp_unix": 1688737207000,
+      "magnetic_field": "+0.2T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "With the target FT0 gain of 14 ADC ch/MIP, the preliminary HV and CS configs resulted in the spread in gain betwen 11 and 16 ADC ch/MIP.\r\nFine-tuning was performed on 07.07.2023 during the beam time b..."
+    },
+    {
+      "id": 60088,
+      "title": "New FT0 HV config set default for +0.2T",
+      "timestamp": "2023-07-07T11:22:17",
+      "timestamp_unix": 1688721737000,
+      "magnetic_field": "+0.2T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "It's the first update of the +0.2T HV config since the start of RUN3, with ageing corrections derived from 0.0T data.\r\nDetector has never run at +0.2T, so it will be fine-tuned once the beam is availa..."
+    },
+    {
+      "id": 59375,
+      "title": "FT0 HV config fine-tuned for -0.5T",
+      "timestamp": "2023-07-02T23:15:27",
+      "timestamp_unix": 1688332527000,
+      "magnetic_field": "-0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "HV fine-tuning for -0.5T was performed in a short period of time on July 2nd, around 12h30, right after the -0.2T test. The new HV config file HV-05T-neg-230702 was set as default immediately after, s..."
+    },
+    {
+      "id": 38611,
+      "title": "Default FT0 HV config updated for +0.5T",
+      "timestamp": "2022-11-27T13:29:33",
+      "timestamp_unix": 1669552173000,
+      "magnetic_field": "+0.5T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "The previous +0.5T default config was produced as a result of the ageing correction procedure. It contained one decimal place after the separator. Due to the malfunctions of the DCS project, some HV c..."
+    },
+    {
+      "id": 32900,
+      "title": "FT0 HV config adjusted for the high rates - set as default for 0.5T",
+      "timestamp": "2022-10-06T11:56:21",
+      "timestamp_unix": 1665050181000,
+      "magnetic_field": "0.5T",
+      "author": {
+        "name": "Maciej Slupecki",
+        "id": 287,
+        "external_id": 678606
+      },
+      "text_preview": "In preparation for high-rate tests, the FT0 default HV config was modified:\r\n- from: `HV_CS_05T_pos_2022_06_21`\r\n- to `HV-05T-pos-220922`\r\nThe voltages stayed the same. Only current limits were increa..."
+    },
+    {
+      "id": 30508,
+      "title": "FT0 0.0T HV config updated",
+      "timestamp": "2022-09-19T13:47:05",
+      "timestamp_unix": 1663588025000,
+      "magnetic_field": "0.0T",
+      "author": {
+        "name": "Yury Melikyan",
+        "id": 293,
+        "external_id": 760963
+      },
+      "text_preview": "The following changes were saved to the HV-0T-220915 recipe, which is currently the default one:\r\n\r\nFTC-A4: 1266 V -> 1191 V / 250 uA\r\nFTC-A5: 1261 V -> 1252 V / 273 uA"
+    }
+  ]
+}
