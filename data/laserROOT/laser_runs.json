@@ -1,914 +1,2708 @@
 [
   {
+    "run": 564856,
+    "start_ms": 1753333103150,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564800,
+    "start_ms": 1753249016758,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564780,
+    "start_ms": 1753143364184,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564765,
+    "start_ms": 1753114010248,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564749,
+    "start_ms": 1753046574515,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564740,
+    "start_ms": 1752998888685,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564736,
+    "start_ms": 1752998483731,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564721,
+    "start_ms": 1752921153391,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564706,
+    "start_ms": 1752886519015,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564695,
+    "start_ms": 1752866883869,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564665,
+    "start_ms": 1752815879441,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564646,
+    "start_ms": 1752765060031,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564633,
+    "start_ms": 1752738813910,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564625,
+    "start_ms": 1752696158661,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564619,
+    "start_ms": 1752684322464,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
     "run": 564587,
-    "start_ms": 1752461684829
+    "start_ms": 1752461684829,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564577,
+    "start_ms": 1752411705834,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 564562,
-    "start_ms": 1752305859856
+    "start_ms": 1752305859856,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564548,
+    "start_ms": 1752263368576,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 564528,
-    "start_ms": 1752186470349
+    "start_ms": 1752186470349,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 564474,
+    "start_ms": 1752022192024,
+    "polarity": "POSITIVE",
+    "beamType": "NE10 - NE10"
   },
   {
     "run": 564446,
-    "start_ms": 1751895462583
+    "start_ms": 1751895462583,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564431,
+    "start_ms": 1751863221232,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
   },
   {
     "run": 564415,
-    "start_ms": 1751828262055
+    "start_ms": 1751828262055,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564402,
+    "start_ms": 1751800339860,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564393,
+    "start_ms": 1751765901435,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564380,
+    "start_ms": 1751735977424,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
+  },
+  {
+    "run": 564361,
+    "start_ms": 1751706671748,
+    "polarity": "POSITIVE",
+    "beamType": "O8 - O8"
   },
   {
     "run": 564298,
-    "start_ms": 1751520011763
+    "start_ms": 1751520011763,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  },
+  {
+    "run": 564277,
+    "start_ms": 1751438510586,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - O8"
+  },
+  {
+    "run": 564001,
+    "start_ms": 1750299527404,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563949,
-    "start_ms": 1750067362194
+    "start_ms": 1750067362194,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563920,
-    "start_ms": 1749938895665
+    "start_ms": 1749938895665,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563905,
-    "start_ms": 1749897711353
+    "start_ms": 1749897711353,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563891,
-    "start_ms": 1749820768578
+    "start_ms": 1749820768578,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563862,
-    "start_ms": 1749726434281
+    "start_ms": 1749726434281,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563752,
-    "start_ms": 1749486190591
+    "start_ms": 1749486190591,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563736,
+    "start_ms": 1749456732108,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563719,
-    "start_ms": 1749412684047
+    "start_ms": 1749412684047,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563708,
+    "start_ms": 1749388932123,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563696,
-    "start_ms": 1749326744865
+    "start_ms": 1749326744865,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563682,
+    "start_ms": 1749276530548,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563624,
+    "start_ms": 1749168493408,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563612,
-    "start_ms": 1749141656732
+    "start_ms": 1749141656732,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563603,
+    "start_ms": 1749088622594,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563585,
-    "start_ms": 1749022661384
+    "start_ms": 1749022661384,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563524,
-    "start_ms": 1748785049180
+    "start_ms": 1748785049180,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563511,
-    "start_ms": 1748714506822
+    "start_ms": 1748714506822,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563499,
+    "start_ms": 1748699014503,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563487,
+    "start_ms": 1748636719992,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563469,
-    "start_ms": 1748576405654
+    "start_ms": 1748576405654,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563457,
-    "start_ms": 1748544204518
+    "start_ms": 1748544204518,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563445,
-    "start_ms": 1748488998633
+    "start_ms": 1748488998633,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563432,
-    "start_ms": 1748429792560
+    "start_ms": 1748429792560,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563423,
+    "start_ms": 1748378063782,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563419,
-    "start_ms": 1748377563768
+    "start_ms": 1748377563768,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563350,
+    "start_ms": 1748234682746,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563338,
+    "start_ms": 1748167905737,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563319,
-    "start_ms": 1748094794971
+    "start_ms": 1748094794971,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563293,
-    "start_ms": 1748053277707
+    "start_ms": 1748053277707,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563266,
-    "start_ms": 1747927596530
+    "start_ms": 1747927596530,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563198,
-    "start_ms": 1747819714270
+    "start_ms": 1747819714270,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563185,
+    "start_ms": 1747806652534,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563139,
-    "start_ms": 1747723486301
+    "start_ms": 1747723486301,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563128,
-    "start_ms": 1747708485071
+    "start_ms": 1747708485071,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563098,
-    "start_ms": 1747649690786
+    "start_ms": 1747649690786,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563064,
+    "start_ms": 1747540981261,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563060,
-    "start_ms": 1747539942828
+    "start_ms": 1747539942828,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 563043,
-    "start_ms": 1747495841918
+    "start_ms": 1747495841918,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 563027,
+    "start_ms": 1747455681598,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 562988,
-    "start_ms": 1747313905231
+    "start_ms": 1747313905231,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 562957,
-    "start_ms": 1747282071708
+    "start_ms": 1747282071708,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 562946,
+    "start_ms": 1747260605387,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 562934,
+    "start_ms": 1747196352124,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 562890,
+    "start_ms": 1747034701843,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 562865,
-    "start_ms": 1746938237696
+    "start_ms": 1746938237696,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 562851,
+    "start_ms": 1746885810704,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 562807,
+    "start_ms": 1746778816857,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 562714,
-    "start_ms": 1746526057093
+    "start_ms": 1746526057093,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 562702,
-    "start_ms": 1746490302275
+    "start_ms": 1746490302275,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 562674,
+    "start_ms": 1746450975691,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 562275,
+    "start_ms": 1745326323437,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 561762,
+    "start_ms": 1743675714866,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 561738,
+    "start_ms": 1743606138036,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 561703,
+    "start_ms": 1743507979290,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 561685,
+    "start_ms": 1743443560421,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 561532,
+    "start_ms": 1742915885431,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 561469,
+    "start_ms": 1742714524407,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 561460,
+    "start_ms": 1742646376427,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 560403,
-    "start_ms": 1732340699000
+    "start_ms": 1732340699000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560376,
-    "start_ms": 1732293175000
+    "start_ms": 1732293175000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 560358,
+    "start_ms": 1732269005000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560336,
-    "start_ms": 1732229288000
+    "start_ms": 1732229288000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 560315,
+    "start_ms": 1732179389000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560282,
-    "start_ms": 1732074263000
+    "start_ms": 1732074263000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560264,
-    "start_ms": 1732050515000
+    "start_ms": 1732050515000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560245,
-    "start_ms": 1732030013000
+    "start_ms": 1732030013000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560231,
-    "start_ms": 1732000006000
+    "start_ms": 1732000006000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560186,
-    "start_ms": 1731920239000
+    "start_ms": 1731920239000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560171,
-    "start_ms": 1731895743000
+    "start_ms": 1731895743000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 560144,
+    "start_ms": 1731860275000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 560132,
+    "start_ms": 1731834464000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 560108,
+    "start_ms": 1731813811000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560092,
-    "start_ms": 1731778049000
+    "start_ms": 1731778049000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560072,
-    "start_ms": 1731744086000
+    "start_ms": 1731744086000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 560051,
-    "start_ms": 1731706504000
+    "start_ms": 1731706504000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 560036,
+    "start_ms": 1731696021000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 560014,
+    "start_ms": 1731660260000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559988,
-    "start_ms": 1731561936000
+    "start_ms": 1731561936000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559972,
-    "start_ms": 1731540028000
+    "start_ms": 1731540028000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559935,
-    "start_ms": 1731436026000
+    "start_ms": 1731436026000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559921,
-    "start_ms": 1731414882000
+    "start_ms": 1731414882000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 559905,
+    "start_ms": 1731384679000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559858,
-    "start_ms": 1731323744000
+    "start_ms": 1731323744000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559845,
-    "start_ms": 1731305004000
+    "start_ms": 1731305004000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559832,
-    "start_ms": 1731292132000
+    "start_ms": 1731292132000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559806,
-    "start_ms": 1731249902000
+    "start_ms": 1731249902000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559790,
-    "start_ms": 1731225904000
+    "start_ms": 1731225904000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559764,
-    "start_ms": 1731192742000
+    "start_ms": 1731192742000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 559751,
+    "start_ms": 1731172690000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 559733,
+    "start_ms": 1731138333000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559715,
-    "start_ms": 1731117934000
+    "start_ms": 1731117934000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559683,
-    "start_ms": 1731071358000
+    "start_ms": 1731071358000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559663,
-    "start_ms": 1731013529000
+    "start_ms": 1731013529000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559634,
-    "start_ms": 1730987949000
+    "start_ms": 1730987949000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559619,
-    "start_ms": 1730973213000
+    "start_ms": 1730973213000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 559598,
+    "start_ms": 1730954992000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 559577,
+    "start_ms": 1730928268000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559546,
-    "start_ms": 1730896220000
+    "start_ms": 1730896220000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 559516,
-    "start_ms": 1730852274000
+    "start_ms": 1730852274000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 559458,
-    "start_ms": 1730711037000
+    "start_ms": 1730711037000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559445,
+    "start_ms": 1730684149000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559425,
+    "start_ms": 1730625512000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 559411,
-    "start_ms": 1730514425000
+    "start_ms": 1730514425000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559394,
+    "start_ms": 1730450157000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559389,
+    "start_ms": 1730449728000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559363,
+    "start_ms": 1730369957000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559349,
+    "start_ms": 1730302996000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559336,
+    "start_ms": 1730270985000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559323,
+    "start_ms": 1730241130000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 559263,
-    "start_ms": 1730198081000
+    "start_ms": 1730198081000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559249,
+    "start_ms": 1730161450000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559231,
+    "start_ms": 1730129459000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559213,
+    "start_ms": 1730115172000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559162,
+    "start_ms": 1730003156000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559160,
+    "start_ms": 1729994103000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559148,
+    "start_ms": 1729887418000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 559073,
+    "start_ms": 1729682992000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 559033,
+    "start_ms": 1729601586000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558809,
-    "start_ms": 1729077241000
+    "start_ms": 1729077241000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 558790,
+    "start_ms": 1729053273000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 558764,
+    "start_ms": 1729011135000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558732,
-    "start_ms": 1728948685000
+    "start_ms": 1728948685000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558688,
-    "start_ms": 1728881082000
+    "start_ms": 1728881082000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558663,
-    "start_ms": 1728824795000
+    "start_ms": 1728824795000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558640,
-    "start_ms": 1728786110000
+    "start_ms": 1728786110000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558617,
-    "start_ms": 1728730455000
+    "start_ms": 1728730455000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558557,
-    "start_ms": 1728597784000
+    "start_ms": 1728597784000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558538,
-    "start_ms": 1728572972000
+    "start_ms": 1728572972000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 558506,
+    "start_ms": 1728546880000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558469,
-    "start_ms": 1728481416000
+    "start_ms": 1728481416000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558412,
-    "start_ms": 1728380742000
+    "start_ms": 1728380742000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 558396,
+    "start_ms": 1728362477000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558342,
-    "start_ms": 1728290859000
+    "start_ms": 1728290859000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558309,
-    "start_ms": 1728230877000
+    "start_ms": 1728230877000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 558260,
+    "start_ms": 1728166648000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558162,
-    "start_ms": 1727919461000
+    "start_ms": 1727919461000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 558130,
-    "start_ms": 1727856720000
+    "start_ms": 1727856720000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557932,
+    "start_ms": 1727384863000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 557899,
-    "start_ms": 1727350035000
+    "start_ms": 1727350035000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 557880,
-    "start_ms": 1727332375000
+    "start_ms": 1727332375000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557864,
+    "start_ms": 1727298817000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557800,
+    "start_ms": 1727171113000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557773,
+    "start_ms": 1727090980000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 557752,
-    "start_ms": 1727064667000
+    "start_ms": 1727064667000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557730,
+    "start_ms": 1727017318000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557696,
+    "start_ms": 1726933196000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 557668,
-    "start_ms": 1726872163000
+    "start_ms": 1726872163000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557627,
+    "start_ms": 1726832138000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 557558,
-    "start_ms": 1726725258000
+    "start_ms": 1726725258000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 557536,
-    "start_ms": 1726681817000
+    "start_ms": 1726681817000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557496,
+    "start_ms": 1726638482000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557454,
+    "start_ms": 1726581213000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557432,
+    "start_ms": 1726564865000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557377,
+    "start_ms": 1726482994000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 557353,
-    "start_ms": 1726470896000
+    "start_ms": 1726470896000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557323,
+    "start_ms": 1726411746000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 557307,
-    "start_ms": 1726402312000
+    "start_ms": 1726402312000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557278,
+    "start_ms": 1726338956000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 557238,
-    "start_ms": 1726291721000
+    "start_ms": 1726291721000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557168,
+    "start_ms": 1726216845000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 557077,
-    "start_ms": 1726072434000
+    "start_ms": 1726072434000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 557031,
+    "start_ms": 1726013847000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556986,
-    "start_ms": 1725927246000
+    "start_ms": 1725927246000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556968,
-    "start_ms": 1725899482000
+    "start_ms": 1725899482000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556944,
+    "start_ms": 1725847374000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556927,
-    "start_ms": 1725819400000
+    "start_ms": 1725819400000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556894,
-    "start_ms": 1725757020000
+    "start_ms": 1725757020000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556877,
-    "start_ms": 1725737633000
+    "start_ms": 1725737633000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556849,
+    "start_ms": 1725712766000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556823,
-    "start_ms": 1725653765000
+    "start_ms": 1725653765000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556781,
+    "start_ms": 1725620606000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556747,
+    "start_ms": 1725553224000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556722,
-    "start_ms": 1725493720000
+    "start_ms": 1725493720000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556690,
+    "start_ms": 1725468315000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556645,
-    "start_ms": 1725369431000
+    "start_ms": 1725369431000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556598,
+    "start_ms": 1725274422000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556574,
-    "start_ms": 1725247909000
+    "start_ms": 1725247909000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556547,
+    "start_ms": 1725195011000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556531,
-    "start_ms": 1725174736000
+    "start_ms": 1725174736000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556500,
+    "start_ms": 1725111460000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556471,
+    "start_ms": 1725051687000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556441,
-    "start_ms": 1724993619000
+    "start_ms": 1724993619000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556425,
+    "start_ms": 1724978762000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556392,
-    "start_ms": 1724912910000
+    "start_ms": 1724912910000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556376,
-    "start_ms": 1724899873000
+    "start_ms": 1724899873000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556290,
-    "start_ms": 1724719180000
+    "start_ms": 1724719180000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556272,
-    "start_ms": 1724689279000
+    "start_ms": 1724689279000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556252,
-    "start_ms": 1724645557000
+    "start_ms": 1724645557000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556225,
+    "start_ms": 1724584149000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 556191,
-    "start_ms": 1724520901000
+    "start_ms": 1724520901000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 556168,
+    "start_ms": 1724487318000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555978,
-    "start_ms": 1724041272000
+    "start_ms": 1724041272000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555943,
-    "start_ms": 1723989328000
+    "start_ms": 1723989328000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555904,
-    "start_ms": 1723923269000
+    "start_ms": 1723923269000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555888,
-    "start_ms": 1723906186000
+    "start_ms": 1723906186000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555869,
+    "start_ms": 1723884223000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555805,
-    "start_ms": 1723778628000
+    "start_ms": 1723778628000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555775,
+    "start_ms": 1723723930000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555745,
+    "start_ms": 1723667834000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555726,
-    "start_ms": 1723644215000
+    "start_ms": 1723644215000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555710,
+    "start_ms": 1723626978000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555681,
+    "start_ms": 1723573545000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555601,
+    "start_ms": 1723427874000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555557,
+    "start_ms": 1723364641000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555516,
+    "start_ms": 1723302342000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555493,
+    "start_ms": 1723252687000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555461,
+    "start_ms": 1723188875000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555414,
-    "start_ms": 1723119905000
+    "start_ms": 1723119905000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555360,
+    "start_ms": 1723026366000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555321,
+    "start_ms": 1722926300000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555272,
-    "start_ms": 1722845682000
+    "start_ms": 1722845682000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555242,
+    "start_ms": 1722785323000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555214,
+    "start_ms": 1722721367000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555191,
+    "start_ms": 1722681011000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555176,
-    "start_ms": 1722660792000
+    "start_ms": 1722660792000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555135,
+    "start_ms": 1722590309000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555111,
+    "start_ms": 1722540828000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555075,
-    "start_ms": 1722491576000
+    "start_ms": 1722491576000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555052,
-    "start_ms": 1722442343000
+    "start_ms": 1722442343000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 555027,
+    "start_ms": 1722418687000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 555009,
-    "start_ms": 1722354515000
+    "start_ms": 1722354515000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554983,
+    "start_ms": 1722313448000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554935,
-    "start_ms": 1722255158000
+    "start_ms": 1722255158000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554911,
+    "start_ms": 1722204554000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554886,
+    "start_ms": 1722161830000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554853,
-    "start_ms": 1722114901000
+    "start_ms": 1722114901000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554823,
-    "start_ms": 1722057194000
+    "start_ms": 1722057194000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554798,
+    "start_ms": 1722007128000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554779,
-    "start_ms": 1721987906000
+    "start_ms": 1721987906000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554758,
+    "start_ms": 1721965662000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554738,
-    "start_ms": 1721944531000
+    "start_ms": 1721944531000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554719,
+    "start_ms": 1721919738000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554640,
+    "start_ms": 1721801209000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554593,
-    "start_ms": 1721707913000
+    "start_ms": 1721707913000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554545,
+    "start_ms": 1721623617000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554511,
-    "start_ms": 1721560170000
+    "start_ms": 1721560170000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554475,
-    "start_ms": 1721477965000
+    "start_ms": 1721477965000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554432,
-    "start_ms": 1721368101000
+    "start_ms": 1721368101000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554416,
+    "start_ms": 1721347688000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554370,
-    "start_ms": 1721272722000
+    "start_ms": 1721272722000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554328,
-    "start_ms": 1721189635000
+    "start_ms": 1721189635000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554304,
+    "start_ms": 1721150453000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554265,
+    "start_ms": 1721036756000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554238,
-    "start_ms": 1720977433000
+    "start_ms": 1720977433000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554215,
+    "start_ms": 1720915925000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554184,
+    "start_ms": 1720859263000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554162,
+    "start_ms": 1720815432000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554150,
-    "start_ms": 1720798821000
+    "start_ms": 1720798821000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554102,
-    "start_ms": 1720692164000
+    "start_ms": 1720692164000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554046,
+    "start_ms": 1720611765000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 554025,
+    "start_ms": 1720572867000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 554011,
-    "start_ms": 1720552180000
+    "start_ms": 1720552180000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553989,
+    "start_ms": 1720503835000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553907,
+    "start_ms": 1720312586000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553887,
-    "start_ms": 1720268711000
+    "start_ms": 1720268711000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553869,
+    "start_ms": 1720244994000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553852,
-    "start_ms": 1720218002000
+    "start_ms": 1720218002000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553829,
+    "start_ms": 1720188972000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553797,
-    "start_ms": 1720122943000
+    "start_ms": 1720122943000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553759,
-    "start_ms": 1720078879000
+    "start_ms": 1720078879000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553745,
-    "start_ms": 1720051569000
+    "start_ms": 1720051569000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553715,
-    "start_ms": 1720010608000
+    "start_ms": 1720010608000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553687,
+    "start_ms": 1719959339000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553671,
+    "start_ms": 1719926149000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553641,
-    "start_ms": 1719862012000
+    "start_ms": 1719862012000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553617,
-    "start_ms": 1719827650000
+    "start_ms": 1719827650000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553596,
+    "start_ms": 1719793535000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553572,
-    "start_ms": 1719767829000
+    "start_ms": 1719767829000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553544,
-    "start_ms": 1719688548000
+    "start_ms": 1719688548000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553519,
-    "start_ms": 1719629326000
+    "start_ms": 1719629326000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553488,
-    "start_ms": 1719507166000
+    "start_ms": 1719507166000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553415,
+    "start_ms": 1719336797000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553414,
+    "start_ms": 1719336447000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553407,
+    "start_ms": 1719330202000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553316,
-    "start_ms": 1719208381000
+    "start_ms": 1719208381000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553279,
-    "start_ms": 1719102139000
+    "start_ms": 1719102139000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553261,
+    "start_ms": 1719073904000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553237,
-    "start_ms": 1719049538000
+    "start_ms": 1719049538000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553199,
+    "start_ms": 1718987058000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 553134,
+    "start_ms": 1718857058000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 553121,
-    "start_ms": 1718842248000
+    "start_ms": 1718842248000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 552793,
+    "start_ms": 1718282921000,
+    "polarity": null,
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 552386,
-    "start_ms": 1717503689000
+    "start_ms": 1717503689000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 552372,
+    "start_ms": 1717439550000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 552345,
+    "start_ms": 1717377175000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 552319,
-    "start_ms": 1717304968000
+    "start_ms": 1717304968000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 552307,
-    "start_ms": 1717279967000
+    "start_ms": 1717279967000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 552287,
-    "start_ms": 1717205451000
+    "start_ms": 1717205451000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 552210,
-    "start_ms": 1717128747000
+    "start_ms": 1717128747000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 552183,
-    "start_ms": 1717031788000
+    "start_ms": 1717031788000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 552160,
-    "start_ms": 1716970258000
+    "start_ms": 1716970258000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 552145,
+    "start_ms": 1716956673000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 552108,
+    "start_ms": 1716889873000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 552083,
-    "start_ms": 1716843442000
+    "start_ms": 1716843442000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 552033,
+    "start_ms": 1716792267000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 552008,
-    "start_ms": 1716719594000
+    "start_ms": 1716719594000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 551964,
+    "start_ms": 1716628672000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 551948,
+    "start_ms": 1716590771000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551934,
-    "start_ms": 1716536962000
+    "start_ms": 1716536962000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551880,
-    "start_ms": 1716427018000
+    "start_ms": 1716427018000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 551859,
+    "start_ms": 1716372243000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 551847,
+    "start_ms": 1716350002000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551784,
-    "start_ms": 1716259814000
+    "start_ms": 1716259814000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551764,
-    "start_ms": 1716224901000
+    "start_ms": 1716224901000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 551750,
+    "start_ms": 1716163133000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551734,
-    "start_ms": 1716087203000
+    "start_ms": 1716087203000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551721,
-    "start_ms": 1716031395000
+    "start_ms": 1716031395000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551689,
-    "start_ms": 1715989451000
+    "start_ms": 1715989451000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 551480,
+    "start_ms": 1715508651000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551433,
-    "start_ms": 1715342663000
+    "start_ms": 1715342663000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 551408,
+    "start_ms": 1715287287000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551376,
-    "start_ms": 1715230154000
+    "start_ms": 1715230154000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551300,
-    "start_ms": 1715167276000
+    "start_ms": 1715167276000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 551275,
+    "start_ms": 1715125827000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551237,
-    "start_ms": 1715060605000
+    "start_ms": 1715060605000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551156,
-    "start_ms": 1714972296000
+    "start_ms": 1714972296000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551140,
-    "start_ms": 1714939601000
+    "start_ms": 1714939601000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 551112,
+    "start_ms": 1714876952000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551095,
-    "start_ms": 1714851791000
+    "start_ms": 1714851791000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 551073,
-    "start_ms": 1714792849000
+    "start_ms": 1714792849000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550922,
+    "start_ms": 1714595143000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 550897,
-    "start_ms": 1714531049000
+    "start_ms": 1714531049000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550834,
+    "start_ms": 1714426032000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 550788,
-    "start_ms": 1714316257000
+    "start_ms": 1714316257000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550764,
+    "start_ms": 1714269627000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550745,
+    "start_ms": 1714248570000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550718,
+    "start_ms": 1714192863000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 550696,
-    "start_ms": 1714161163000
+    "start_ms": 1714161163000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 550661,
-    "start_ms": 1714130003000
+    "start_ms": 1714130003000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550642,
+    "start_ms": 1714094123000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550617,
+    "start_ms": 1714067705000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 550544,
-    "start_ms": 1713936416000
+    "start_ms": 1713936416000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 550443,
-    "start_ms": 1713674182000
+    "start_ms": 1713674182000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 550429,
-    "start_ms": 1713662635000
+    "start_ms": 1713662635000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 550381,
-    "start_ms": 1713583082000
+    "start_ms": 1713583082000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 550244,
-    "start_ms": 1713330915000
+    "start_ms": 1713330915000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 550230,
-    "start_ms": 1713306418000
+    "start_ms": 1713306418000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550194,
+    "start_ms": 1713247580000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550182,
+    "start_ms": 1713220811000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550116,
+    "start_ms": 1713151888000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550055,
+    "start_ms": 1713073754000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 550027,
+    "start_ms": 1713022013000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 549983,
-    "start_ms": 1712936571000
+    "start_ms": 1712936571000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 549958,
-    "start_ms": 1712919188000
+    "start_ms": 1712919188000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 549853,
-    "start_ms": 1712788504000
+    "start_ms": 1712788504000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 549824,
-    "start_ms": 1712774571000
+    "start_ms": 1712774571000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 549749,
-    "start_ms": 1712639399000
+    "start_ms": 1712639399000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 549685,
-    "start_ms": 1712553312000
+    "start_ms": 1712553312000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 549661,
-    "start_ms": 1712509984000
+    "start_ms": 1712509984000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
   },
   {
     "run": 549617,
-    "start_ms": 1712455351000
+    "start_ms": 1712455351000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 549390,
+    "start_ms": 1712149398000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 548609,
+    "start_ms": 1710938162000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 548584,
+    "start_ms": 1710927763000,
+    "polarity": "NEGATIVE",
+    "beamType": "PROTON - PROTON"
+  },
+  {
+    "run": 545371,
+    "start_ms": 1698617718000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 545350,
+    "start_ms": 1698581273000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 545316,
-    "start_ms": 1698504168000
+    "start_ms": 1698504168000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 545301,
-    "start_ms": 1698456567000
+    "start_ms": 1698456567000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 545265,
-    "start_ms": 1698398922000
+    "start_ms": 1698398922000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 545253,
+    "start_ms": 1698361146000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 545229,
+    "start_ms": 1698313630000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 545226,
+    "start_ms": 1698313466000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 545212,
+    "start_ms": 1698280426000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 545189,
-    "start_ms": 1698225713000
+    "start_ms": 1698225713000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 545174,
+    "start_ms": 1698192592000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 545121,
-    "start_ms": 1698128881000
+    "start_ms": 1698128881000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 545105,
-    "start_ms": 1698113408000
+    "start_ms": 1698113408000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 545091,
+    "start_ms": 1698090747000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 545068,
+    "start_ms": 1698047980000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 545052,
+    "start_ms": 1698007921000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 545012,
-    "start_ms": 1697954750000
+    "start_ms": 1697954750000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544995,
+    "start_ms": 1697930727000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544952,
+    "start_ms": 1697859595000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544935,
+    "start_ms": 1697838749000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544922,
+    "start_ms": 1697825794000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544902,
+    "start_ms": 1697795032000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544873,
+    "start_ms": 1697753281000,
+    "polarity": "NEGATIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544819,
-    "start_ms": 1697610283000
+    "start_ms": 1697610283000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544818,
-    "start_ms": 1697610179000
+    "start_ms": 1697610179000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544798,
+    "start_ms": 1697580477000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544774,
-    "start_ms": 1697541830000
+    "start_ms": 1697541830000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544759,
+    "start_ms": 1697514495000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544747,
+    "start_ms": 1697501385000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544701,
+    "start_ms": 1697427783000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544679,
-    "start_ms": 1697371624000
+    "start_ms": 1697371624000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544657,
-    "start_ms": 1697350522000
+    "start_ms": 1697350522000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544645,
-    "start_ms": 1697310601000
+    "start_ms": 1697310601000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544586,
-    "start_ms": 1697195280000
+    "start_ms": 1697195280000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544573,
-    "start_ms": 1697167366000
+    "start_ms": 1697167366000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544555,
-    "start_ms": 1697147399000
+    "start_ms": 1697147399000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544523,
+    "start_ms": 1697111578000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544495,
-    "start_ms": 1697075690000
+    "start_ms": 1697075690000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544480,
-    "start_ms": 1697048331000
+    "start_ms": 1697048331000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544456,
-    "start_ms": 1697006759000
+    "start_ms": 1697006759000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544439,
+    "start_ms": 1696973857000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544425,
-    "start_ms": 1696949350000
+    "start_ms": 1696949350000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544397,
-    "start_ms": 1696920790000
+    "start_ms": 1696920790000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544335,
+    "start_ms": 1696839419000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544188,
-    "start_ms": 1696631573000
+    "start_ms": 1696631573000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544129,
+    "start_ms": 1696589001000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544103,
-    "start_ms": 1696538264000
+    "start_ms": 1696538264000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 544036,
-    "start_ms": 1696488293000
+    "start_ms": 1696488293000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 544018,
+    "start_ms": 1696472682000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 543957,
-    "start_ms": 1696415851000
+    "start_ms": 1696415851000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 543936,
+    "start_ms": 1696387822000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 543878,
-    "start_ms": 1696322510000
+    "start_ms": 1696322510000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 543858,
+    "start_ms": 1696284677000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 543823,
-    "start_ms": 1696248060000
+    "start_ms": 1696248060000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 543808,
-    "start_ms": 1696213244000
+    "start_ms": 1696213244000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 543765,
+    "start_ms": 1696161032000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 543739,
+    "start_ms": 1696141757000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 543719,
+    "start_ms": 1696087912000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 543647,
+    "start_ms": 1695973002000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 543540,
-    "start_ms": 1695875802000
+    "start_ms": 1695875802000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 543520,
-    "start_ms": 1695856986000
+    "start_ms": 1695856986000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 543491,
+    "start_ms": 1695820202000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 543474,
+    "start_ms": 1695798823000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
+  },
+  {
+    "run": 543473,
+    "start_ms": 1695798658000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 543445,
-    "start_ms": 1695761986000
+    "start_ms": 1695761986000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
-    "run": 543274,
-    "start_ms": 1695543517000
+    "run": 543366,
+    "start_ms": 1695644117000,
+    "polarity": "POSITIVE",
+    "beamType": "PB82 - PB82"
   },
   {
     "run": 529693,
-    "start_ms": 1669612427000
+    "start_ms": 1669612427000,
+    "polarity": "POSITIVE",
+    "beamType": "PROTON - PROTON"
   }
 ]
