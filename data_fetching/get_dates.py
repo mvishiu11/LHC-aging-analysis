@@ -58,12 +58,14 @@ def fetch_laser_runs() -> List[Dict[str, int]]:
     """
     params = {
         "filter[detectors][operator]": "and",
-        "filter[detectors][values]":   "FT0",
-        "filter[runTypes][]":          "5",           # LASER
-        "filter[runQualities]":        "good",
-        "page[limit]":                 PAGE_LIMIT,
-        "page[offset]":                0,
-        "token":                       TOKEN,
+        "filter[detectors][values]": "FT0",
+        "filter[runTypes][]": "5",  # 5 LASER, 1 PHYSICS
+        "filter[runQualities]": "good",
+        "filter[runDuration][operator]": "<=",
+        "filter[runDuration][limit]": 61000,
+        "page[limit]": PAGE_LIMIT,
+        "page[offset]": 0,
+        "token": TOKEN,
     }
     runs: List[Dict[str, int]] = []
 
@@ -76,10 +78,21 @@ def fetch_laser_runs() -> List[Dict[str, int]]:
             data = requests.get(url, timeout=30, verify=False).json()
 
             for entry in data["data"]:
-                if entry.get("lhcBeamMode") != "RAMP DOWN":
+                # if entry.get("lhcBeamMode") != "RAMP DOWN":
+                #     continue
+                if entry.get("lhcFill", None) == None:
                     continue
                 epoch_ms = entry.get("startTime") or entry.get("timeO2Start")
-                runs.append({"run": entry["runNumber"], "start_ms": epoch_ms})
+                epoch_ms = entry.get("startTime") or entry.get("timeO2Start")
+                polarity = entry.get("aliceL3Polarity")
+                beamType = entry.get("lhcFill").get("beamType")
+                runs.append(
+                    {
+                        "run": entry["runNumber"], 
+                        "start_ms": epoch_ms,
+                        "polarity": polarity,
+                        "beamType": beamType
+                    })
 
             cur_page = params["page[offset]"] // PAGE_LIMIT + 1
             if cur_page >= data["meta"]["page"]["pageCount"]:
@@ -145,7 +158,7 @@ def main() -> None:
                     help="output file name")
     args = ap.parse_args()
 
-    runs = fetch_oxygen_runs()
+    runs = fetch_laser_runs()
     Path(args.outfile).write_text(json.dumps(runs, indent=2))
     console.print(f"[bold green]✓ Saved {len(runs)} runs → {args.outfile}[/]")
     console.print(f"(earliest: {runs[0]['run']} @ "

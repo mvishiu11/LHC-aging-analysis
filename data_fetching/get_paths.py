@@ -48,6 +48,10 @@ import urllib3
 from rich.console import Console
 from rich.spinner import Spinner
 from tqdm import tqdm
+from dotenv import load_dotenv
+
+
+load_dotenv()
 
 # ----------------------------------------------------------------------------
 # Configuration constants
@@ -78,8 +82,10 @@ def bk_runs() -> List[Tuple[int, int]]:
     params = {
         "filter[detectors][operator]": "and",
         "filter[detectors][values]": "FT0",
-        "filter[runTypes][]": "1",  # 5 LASER, 1 PHYSICS
+        "filter[runTypes][]": "5",  # 5 LASER, 1 PHYSICS
         "filter[runQualities]": "good",
+        "filter[runDuration][operator]": "<=",
+        "filter[runDuration][limit]": 61000,
         "page[limit]": PAGE_LIMIT,
         "page[offset]": 0,
         "token": TOKEN,
@@ -93,8 +99,8 @@ def bk_runs() -> List[Tuple[int, int]]:
         for entry in data["data"]:
             # if entry.get("lhcBeamMode") != "RAMP DOWN":
             #     continue
-            if entry.get("pdpBeamType") not in ["OO", "pO"]:
-                continue
+            # if entry.get("pdpBeamType") not in ["OO", "pO"]:
+            #     continue
             epoch_ms = entry.get("startTime") or entry.get("timeO2Start")
             year = datetime.datetime.utcfromtimestamp(epoch_ms / 1000).year
             out.append((entry["runNumber"], year))
