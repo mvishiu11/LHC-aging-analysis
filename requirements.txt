@@ -1,0 +1,38 @@
+# Core dependencies for ALICE FT0 Data Processing Suite
+
+# Data processing and analysis
+numpy
+pandas
+polars
+scipy
+numba
+
+# ROOT file handling (CERN/HEP data format)
+uproot
+awkward
+
+# HTTP requests and web APIs
+requests
+urllib3
+
+# Environment and configuration
+python-dotenv
+
+# CLI and user interface
+rich
+tqdm
+tkinter
+
+# System monitoring (for daq_monitor.py)
+psutil
+
+# Optional: Jupyter notebook support
+# Comment if not using notebooks for analysis
+jupyter
+ipykernel
+matplotlib
+seaborn
+
+# Development dependencies (for Rust extensions)
+# Comment if not building high-performance extensions
+maturin
