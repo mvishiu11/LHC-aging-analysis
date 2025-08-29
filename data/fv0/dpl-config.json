@@ -1,0 +1,34 @@
+{
+    "internal-dpl-clock": "",
+    "ctf-reader": "",
+    "internal-dpl-ccdb-backend": {
+        "condition-backend": "http:\/\/alice-ccdb.cern.ch",
+        "condition-not-before": "0",
+        "condition-not-after": "3385078236000",
+        "condition-remap": "",
+        "condition-tf-per-query": "0",
+        "condition-tf-per-query-multiplier": "1",
+        "condition-time-tolerance": "5000",
+        "orbit-offset-enumeration": "0",
+        "orbit-multiplier-enumeration": "0",
+        "start-value-enumeration": "0",
+        "end-value-enumeration": "-1",
+        "step-value-enumeration": "1"
+    },
+    "fv0-entropy-decoder": {
+        "ctf-dict": "ccdb",
+        "condition-backend": "http:\/\/alice-ccdb.cern.ch",
+        "condition-timestamp": "0",
+        "ans-version": ""
+    },
+    "FV0DigitWriterRaw": {
+        "outfile": "o2_fv0digits.root",
+        "output-dir": "none",
+        "treename": "o2sim",
+        "treetitle": "o2sim",
+        "nevents": "-1",
+        "autosave": "-1",
+        "terminate": "process"
+    },
+    "internal-dpl-injected-dummy-sink": ""
+}

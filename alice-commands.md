@@ -4,13 +4,15 @@ We use following commands for testing:
 
 o2-fv0-digit-reader-workflow | o2-qc --config json://$HOME/alice/QualityControl/Modules/FIT/FV0/etc/fv0-amplitude-post-processing-quick.json -b
 
-o2-ft0-digits-reader-workflow | o2-qc --config json://$HOME/alice/QualityControl/Modules/FIT/FT0/etc/ft0-digits.json -b
+o2-ft0-digits-reader-workflow | o2-qc --config json://$HOME/alice/QualityControl/Modules/FIT/FT0/etc/ft0-test.json -b
 
 o2-sim-digitizer-workflow -b --onlyDet FT0 --bcPatternFile ./bcPattern_550483.roo2-fv0-digit-reader-workflow | o2-qc --config json://$HOME/alice/QualityControl/Modules/FIT/FV0/etc/fv0-amplitude-post-processing.json -bnteractionRate 700000 --configKeyValues "FT0DigParam.mMip_in_V=7.;FT0DigParam.mMV_2_Nchannels=2.;FT0DigParam.mMV_2_NchannelsInverse=0.5"
 
 o2-sim -e TGeant4 -m FV0 FT0 -j 10 -g pythia8 --seed 1 -n 5000 --field 5 --configKeyValues "Diamond.width[2]=6.;GeneratorPythia8.config=~/alice/O2/Generators/share/egconfig/pythia8_inel.cfg"
 
 o2-sim-digitizer-workflow -b --onlyDet FV0 --bcPatternFile ./bcPattern_550483.root --interactionRate 500000 --configKeyValues “FV0DigParam.adcChannelsPerMip=16”
+
+o2-ctf-reader-workflow --ctf-input /alice/data/2024/LHC24aa_FT0/546923/calib/1710/o2_ctf_run00546923_orbit0000000288_tf0000000001_epn348.root --copy-cmd no-copy --ctf-dict ccdb --onlyDet FT0 --severity=error -b | o2-ft0-reco-workflow --disable-mc --disable-root-input --disable-root-output -b | o2-qc --config json://$HOME/alice/QualityControl/Modules/FIT/FT0/etc/ft0-test.json -b
 
 ~/alice/sw/BUILD/QualityControl-latest-feat-extra-amplitude-graphs/QualityControl                                                                                              16:36:24
 ❯ source ~/alice/sw/ubuntu2404_x86-64/QualityControl/latest/etc/profile.d/init.sh

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "analyze_hv_data.C": "cpp",
+        "analyze_hv_reset.C": "cpp"
+    }
+}

@@ -80,12 +80,13 @@ def bk_runs() -> List[Tuple[int, int]]:
     """Return [(runNumber, year), …] for good FT0 LASER runs."""
     url = "https://ali-bookkeeping.cern.ch/api/runs"
     params = {
+        "filter[runNumbers]": 565435,
         "filter[detectors][operator]": "and",
-        "filter[detectors][values]": "FT0",
-        "filter[runTypes][]": "5",  # 5 LASER, 1 PHYSICS
+        "filter[detectors][values]": "FV0",
+        "filter[runTypes][]": "1",  # 5 LASER, 1 PHYSICS
         "filter[runQualities]": "good",
-        "filter[runDuration][operator]": "<=",
-        "filter[runDuration][limit]": 61000,
+        # "filter[runDuration][operator]": "<=",
+        # "filter[runDuration][limit]": 61000,
         "page[limit]": PAGE_LIMIT,
         "page[offset]": 0,
         "token": TOKEN,
